@@ -1,0 +1,21 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+}
+
+.box {
+    margin-top: 70px;
+    margin-left: 480px;
+    margin-bottom: 80px;
+    background-color: rgb(31, 31, 31);
+    height: 700px;
+    width: 500px;
+
+}
+
+/* footer */
+
+.footer {
+    background-color: black;
+}
